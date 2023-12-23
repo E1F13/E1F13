@@ -34,3 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+[![CI](https://github.com/E1F13/E1F13/actions/workflows/fie.yml/badge.svg?branch=main)](https://github.com/E1F13/E1F13/actions/workflows/fie.yml)
