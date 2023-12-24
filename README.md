@@ -8,3 +8,4 @@
 E1F13/E1F13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![CI](https://github.com/E1F13/R3m0t3-RDP/actions/workflows/w0rkf10w.yml/badge.svg)](https://github.com/E1F13/R3m0t3-RDP/actions/workflows/w0rkf10w.yml)
