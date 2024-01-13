@@ -1,3 +1,11 @@
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
 - 👋 Hi, I’m @E1F13
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
