@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![CI](https://github.com/E1F13/R3m0t3-RDP/actions/workflows/w0rkf10w.yml/badge.svg)](https://github.com/E1F13/R3m0t3-RDP/actions/workflows/w0rkf10w.yml)
 [![OpenAPI](https://github.com/E1F13/jellyfin-/actions/workflows/ci-openapi.yml/badge.svg)](https://github.com/E1F13/jellyfin-/actions/workflows/ci-openapi.yml)
+This site was built using [GitHub Pages](https://pages.github.com/).
