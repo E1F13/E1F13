@@ -33,5 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
-[CI](https://github.com/E1F13/E1F13/actions/workflows/fie.yml/badge.branch=main)(https://github.com/E1F13/E1F13/actions/workflows/fie.yml)
+          echo test, and deploy your project:
