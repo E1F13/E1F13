@@ -20,9 +20,11 @@ You can click the Preview link to take a look at your changes.
 [![OpenAPI](https://github.com/E1F13/jellyfin-/actions/workflows/ci-openapi.yml/badge.svg)](https://github.com/E1F13/jellyfin-/actions/workflows/ci-openapi.yml)
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-
+[![build](https://github.com/adnanh/webhook/actions/workflows/build.yml/badge.svg)](https://github.com/adnanh/webhook/actions/workflows/build.yml)
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompt curation.
 - [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Whisper is an AI-powered speech
+
+[![build](https://github.com/adnanh/webhook/actions/workflows/build.yml/badge.svg)](https://github.com/adnanh/webhook/actions/workflows/build.yml)
 
 /usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
 
